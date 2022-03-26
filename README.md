@@ -6,6 +6,8 @@ Got tired of always starting projects from scratch. hopefully this helps.
 [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the project and install all dependencies
 ```bash
 yarn
+# or
+npm install
 ```
 <br/>
 
