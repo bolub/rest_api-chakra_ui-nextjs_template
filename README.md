@@ -22,8 +22,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Batteries Included
 
-### 💎 Next.js (Frontend Framework)
+### 💎 Next.js and Typescript (Frontend Framework)
  - Documentation - https://nextjs.org/docs
+ - Nextjs Typescript docs - https://nextjs.org/docs/basic-features/typescript
 <br/>
 
 ### 🎨 Chakra UI (UI Library)
