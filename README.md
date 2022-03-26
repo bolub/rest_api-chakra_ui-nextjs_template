@@ -22,22 +22,23 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ### 💎 Next.js (Frontend Framework)
  - Documentation - https://nextjs.org/docs
-
+<br/>
 
 ### 🎨 Chakra UI (UI Library)
  - Getting Started - https://chakra-ui.com/guides/getting-started/nextjs-guide
  - Customize Theme - https://chakra-ui.com/docs/styled-system/theming/customize-theme
-
+<br/>
 
 ### 🔠 Font Source (Fonts)
  - https://chakra-ui.com/docs/styled-system/recipes/using-fonts
  - Website - https://fontsource.org/docs/guides/nextjs
  - List of Fonts - https://fontsource.org/fonts
-
+<br/>
 
 ### ℹ️ React-Icons (Icons)
  - Documentation - https://react-icons.github.io/react-icons/
-
+<br/>
 
 ### 👽 React Query (API Management)
  - https://react-query.tanstack.com/overview
+<br/>
