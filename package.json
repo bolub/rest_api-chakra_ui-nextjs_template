@@ -9,16 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@chakra-ui/react": "^2.2.4",
-    "@emotion/react": "^11.9.3",
-    "@emotion/styled": "^11.9.3",
+    "@chakra-ui/react": "^2.2.9",
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
     "@fontsource/nunito": "^4.5.6",
-    "framer-motion": "^6.5.1",
-    "next": "^12.2.2",
+    "framer-motion": "^7.2.1",
+    "next": "^12.2.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.4.0",
-    "react-query": "^3.39.1"
+    "react-query": "^3.39.2"
   },
   "devDependencies": {
     "@types/node": "^18.0.4",
